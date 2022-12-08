@@ -1,0 +1,48 @@
+.card {
+    background: #1A1B21 !important;
+    color: white;
+}
+
+img{
+    padding: 10px 0;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 30px;
+    text-align: center;
+}
+
+h4{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 15px;
+    text-align: center;
+
+    color: #F3BF99;
+}
+
+.card-footer {
+    background-color: #23252C;
+}
+
+.footer{
+    display: flex;
+    background-color: #23252C;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.card-footer button{
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+}
